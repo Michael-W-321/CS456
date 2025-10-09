@@ -1,0 +1,7 @@
+Student_ID,Name,Major,Credits,GPA,Grad_Year
+1001,Alice,Computer Science,120.0,3.85,2026
+1006, ,Biology,88.0,2.95,2028
+,Henry,Math,64.0,2.7,2026
+1009,Ivy,,110.0,3.2,2025
+1011,Kate,Chemistry,95.0,3.0,
+1014,Noah,Physics,85.0,3.25,2027
