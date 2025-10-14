@@ -1,0 +1,9 @@
+Metric,Value
+"Total Good Rows (complete Year, Company, Revenue, Profit)",29011
+Total Bad Rows (incomplete),393
+Unique Companies (non-null names),2599
+Top Revenue Company (1995-1998),General Motors
+Top Revenue Value (in millions),670322.8
+Top Profit Company (1995-1998),Exxon Mobil
+Top Profit Value (in millions),27540.0
+Year Note,Used range 1995-1998.
