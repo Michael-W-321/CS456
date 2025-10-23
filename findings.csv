@@ -1,7 +1,0 @@
-metric,year,price,details
-raw_6th_newest,9999.0,3202402.0,"{'Year': 9999.0, 'Prices': 3202402.0, 'Make': '99', 'Model': '99'}"
-raw_4th_oldest,0.0,500.0,"{'Year': 0.0, 'Prices': 500.0, 'Make': 'TOYOTA', 'Model': 'TUNDRA'}"
-raw_total_missing,,,{'total_missing': 26250}
-clean_6th_newest,2023.0,11513.0,"{'Year': 2023.0, 'Prices': 11513.0, 'Make': 'NISS', 'Model': 'SENTRA'}"
-clean_4th_oldest,1900.0,500.0,"{'Year': 1900.0, 'Prices': 500.0, 'Make': 'UNK', 'Model': 'MOPED'}"
-clean_total_missing,,,{'total_missing': 27334}
